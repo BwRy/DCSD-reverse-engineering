@@ -32,7 +32,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
-#include <ftdi.h>
+#include <libftdi1/ftdi.h>
 
 int main(void)
 {

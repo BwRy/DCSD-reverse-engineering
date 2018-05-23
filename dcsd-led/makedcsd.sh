@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc dcsd.c -lftdi -o dcsd
+gcc dcsd.c -lftdi1 -o dcsd
